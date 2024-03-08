@@ -25,5 +25,7 @@ class PasswordTool(BaseTool):
     ) -> str:
         """Use the tool."""
         # we need to return the secret value
-        return os.environ["SECRET_KEY"]
+        # return os.environ["SECRET_KEY"]
+        # use this instead as this is going to be cloned from github
+        return "NKQkrhQGxFiHTrcE"
     
