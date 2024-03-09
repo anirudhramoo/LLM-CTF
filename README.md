@@ -20,4 +20,4 @@ Ensure you have Python 3.10.2 installed on your system. You can use pyenv or any
    ```
 3. Create a .env file in both the frontend and server folders
 4. In your server .env file add your OpenAI key as follows: `OPENAI_API_KEY=<key here>`
-4. In your frontend .env file add your API key as follows: `REACT_APP_API_URL=<url here>` (the url is whatever port you run it from)
+4. In your frontend .env file add your API key as follows: `REACT_APP_API_URL=<url here>` (the url is your local server;s url)
