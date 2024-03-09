@@ -1,7 +1,7 @@
 # LLM CTF Project
 
 ## Overview
-This project hosts the backend for a Capture The Flag (CTF) challenge, leveraging Language Learning Models (LLM) to process and respond to user queries and submissions. It's designed to test participants' abilities in understanding and manipulating LLMs to solve various tasks, as well as their understanding of cryptography. Best of luck 🚀.
+This project hosts a Capture The Flag (CTF) challenge, leveraging Language Learning Models (LLM) to process and respond to user queries and submissions. It's designed to test participants' abilities in understanding and manipulating LLMs to solve various tasks, as well as their understanding of cryptography. Best of luck 🚀.
 
 ## Installation
 
